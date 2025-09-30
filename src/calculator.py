@@ -31,6 +31,13 @@ def divide(a, b):
     print(f"Result: {result}")
     return result
     """
+import math 
+
+def power(a,b):
+    return math.pow(a,b)
+
+def sqrt(a):
+    return math.sqrt(a)
 
 # TODO: Students will add multiply, divide, power, sqrt functions
 
